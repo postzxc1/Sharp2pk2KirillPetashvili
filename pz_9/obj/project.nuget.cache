@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "04+OS8gNAiabek9y17VLo0928o8af5EbNsaM3hTsPMZBUQqQwN9/SbIooO5GxoeSg7BIa8o0xE04ktTA5FRceA==",
+  "success": true,
+  "projectFilePath": "/home/nesterov/code/pshpsh/pz_9/pz_9.csproj",
+  "expectedPackageFiles": [
+    "/home/nesterov/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
