@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pz_5", "pz_5\pz_5.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pz_6", "pz_6\pz_6.csproj", "{0A2A73E7-81E2-4955-BD0D-2A24AE5C1593}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pz_22", "pz_22\pz_22.csproj", "{97FFC650-D307-4450-BAAB-A55D16DC8B8A}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -170,5 +172,17 @@ Global
 		{0A2A73E7-81E2-4955-BD0D-2A24AE5C1593}.Release|x64.Build.0 = Release|Any CPU
 		{0A2A73E7-81E2-4955-BD0D-2A24AE5C1593}.Release|x86.ActiveCfg = Release|Any CPU
 		{0A2A73E7-81E2-4955-BD0D-2A24AE5C1593}.Release|x86.Build.0 = Release|Any CPU
+		{97FFC650-D307-4450-BAAB-A55D16DC8B8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97FFC650-D307-4450-BAAB-A55D16DC8B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97FFC650-D307-4450-BAAB-A55D16DC8B8A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{97FFC650-D307-4450-BAAB-A55D16DC8B8A}.Debug|x64.Build.0 = Debug|Any CPU
+		{97FFC650-D307-4450-BAAB-A55D16DC8B8A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{97FFC650-D307-4450-BAAB-A55D16DC8B8A}.Debug|x86.Build.0 = Debug|Any CPU
+		{97FFC650-D307-4450-BAAB-A55D16DC8B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97FFC650-D307-4450-BAAB-A55D16DC8B8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97FFC650-D307-4450-BAAB-A55D16DC8B8A}.Release|x64.ActiveCfg = Release|Any CPU
+		{97FFC650-D307-4450-BAAB-A55D16DC8B8A}.Release|x64.Build.0 = Release|Any CPU
+		{97FFC650-D307-4450-BAAB-A55D16DC8B8A}.Release|x86.ActiveCfg = Release|Any CPU
+		{97FFC650-D307-4450-BAAB-A55D16DC8B8A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
