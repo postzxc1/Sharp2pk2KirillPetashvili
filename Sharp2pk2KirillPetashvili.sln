@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pz_20", "pz_20\pz_20.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pz_3", "pz_3\pz_3.csproj", "{59AEC324-DD14-4219-8CE4-6159A089F23D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pz_9", "pz_9\pz_9.csproj", "{05A5EAC4-72D1-4790-9F0E-6B562E2A424E}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,5 +60,17 @@ Global
 		{59AEC324-DD14-4219-8CE4-6159A089F23D}.Release|x64.Build.0 = Release|Any CPU
 		{59AEC324-DD14-4219-8CE4-6159A089F23D}.Release|x86.ActiveCfg = Release|Any CPU
 		{59AEC324-DD14-4219-8CE4-6159A089F23D}.Release|x86.Build.0 = Release|Any CPU
+		{05A5EAC4-72D1-4790-9F0E-6B562E2A424E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A5EAC4-72D1-4790-9F0E-6B562E2A424E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A5EAC4-72D1-4790-9F0E-6B562E2A424E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{05A5EAC4-72D1-4790-9F0E-6B562E2A424E}.Debug|x64.Build.0 = Debug|Any CPU
+		{05A5EAC4-72D1-4790-9F0E-6B562E2A424E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{05A5EAC4-72D1-4790-9F0E-6B562E2A424E}.Debug|x86.Build.0 = Debug|Any CPU
+		{05A5EAC4-72D1-4790-9F0E-6B562E2A424E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A5EAC4-72D1-4790-9F0E-6B562E2A424E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A5EAC4-72D1-4790-9F0E-6B562E2A424E}.Release|x64.ActiveCfg = Release|Any CPU
+		{05A5EAC4-72D1-4790-9F0E-6B562E2A424E}.Release|x64.Build.0 = Release|Any CPU
+		{05A5EAC4-72D1-4790-9F0E-6B562E2A424E}.Release|x86.ActiveCfg = Release|Any CPU
+		{05A5EAC4-72D1-4790-9F0E-6B562E2A424E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
