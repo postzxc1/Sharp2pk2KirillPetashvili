@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pz_13", "pz_13\pz_13.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pz_14", "pz_14\pz_14.csproj", "{61DE25AB-B270-4A2D-BC04-65CA4C5FE255}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pz_16", "pz_16\pz_16.csproj", "{05FE529E-BBCE-4917-8BFB-10D8BAE2E46C}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -114,5 +116,17 @@ Global
 		{61DE25AB-B270-4A2D-BC04-65CA4C5FE255}.Release|x64.Build.0 = Release|Any CPU
 		{61DE25AB-B270-4A2D-BC04-65CA4C5FE255}.Release|x86.ActiveCfg = Release|Any CPU
 		{61DE25AB-B270-4A2D-BC04-65CA4C5FE255}.Release|x86.Build.0 = Release|Any CPU
+		{05FE529E-BBCE-4917-8BFB-10D8BAE2E46C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05FE529E-BBCE-4917-8BFB-10D8BAE2E46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05FE529E-BBCE-4917-8BFB-10D8BAE2E46C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{05FE529E-BBCE-4917-8BFB-10D8BAE2E46C}.Debug|x64.Build.0 = Debug|Any CPU
+		{05FE529E-BBCE-4917-8BFB-10D8BAE2E46C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{05FE529E-BBCE-4917-8BFB-10D8BAE2E46C}.Debug|x86.Build.0 = Debug|Any CPU
+		{05FE529E-BBCE-4917-8BFB-10D8BAE2E46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05FE529E-BBCE-4917-8BFB-10D8BAE2E46C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05FE529E-BBCE-4917-8BFB-10D8BAE2E46C}.Release|x64.ActiveCfg = Release|Any CPU
+		{05FE529E-BBCE-4917-8BFB-10D8BAE2E46C}.Release|x64.Build.0 = Release|Any CPU
+		{05FE529E-BBCE-4917-8BFB-10D8BAE2E46C}.Release|x86.ActiveCfg = Release|Any CPU
+		{05FE529E-BBCE-4917-8BFB-10D8BAE2E46C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
